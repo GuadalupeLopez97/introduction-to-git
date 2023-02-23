@@ -2,7 +2,7 @@
 
 Intruction:  Add your name and GitHub profile as follows
 ```markdown
- - [Your name here 😀](https://github.com)
+ - [Guadalupe Lopez](https://github.com/GuadalupeLopez97)
 ```
 
 - [Oswaldo](https://github.com/dev-oswld)
